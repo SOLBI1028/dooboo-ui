@@ -1,5 +1,46 @@
 ## Changelogs
 
+## 0.1.30
+
+1 More `dooboo-ui` icon
+
+- follow-shape
+
+## 0.1.29
+
+Fix [SwitchToggle] error [#102](https://github.com/dooboolab/dooboo-ui/pull/102).
+
+## 0.1.28
+
+Rewrite [SwitchToggle] [#86](https://github.com/dooboolab/dooboo-ui/pull/86).
+
+## 0.1.27
+
+Implement [SelectBox] component [#73](https://github.com/dooboolab/dooboo-ui/pull/73)
+
+- This leads to another peer dependency, [react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler).
+
+## 0.1.26
+
+16 More `dooboo-ui` icons
+
+- chevron-right-shape
+- chevron-left-shape
+- chevron-down-shape
+- chevron-up-shape
+- trash-light
+- pen-light
+- burger-shape
+- dots-light
+- wifi-unable-light
+- wifi-light
+- mic-shape
+- mic-light
+- phone-shape
+- phone-light
+- clip-shape
+- clip-light
+
 ## 0.1.25
 
 Add display maxLength to EditText [#75](https://github.com/dooboolab/dooboo-ui/pull/75)
